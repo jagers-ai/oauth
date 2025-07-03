@@ -102,4 +102,6 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 - [ ] Kakao OAuth provider
 - [ ] Naver OAuth provider
 - [ ] Database storage adapter
-- [ ] Laravel integration package
+- [ ] Laravel integration package## Auto-update Test
+
+Testing webhook auto-update: Thu Jul  3 18:58:00 KST 2025
